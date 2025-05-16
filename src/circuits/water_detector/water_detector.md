@@ -1,6 +1,6 @@
 # **Water Detector Circuit** 
 
-![Water Setector](textures/water_detector_a.png)
+![Water Detector](textures/water_detector_a.png)
 
 ![Water Setector](textures/water_detector_b.png)
 
