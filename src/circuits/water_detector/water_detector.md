@@ -59,7 +59,7 @@ When water is present between **Wire A** and **Wire B** this circuit **detects t
 ---
 
 ## ✅ ****NPN 2N3904 Transistor**
-## Pinout from Left to Right (Flat Side Facing You)**
+## **Pinout from Left to Right (Flat Side Facing You)**
 
 1. **E** = Emitter (left)
 2. **B** = Base (middle)
