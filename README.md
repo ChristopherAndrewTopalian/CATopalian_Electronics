@@ -3,15 +3,17 @@ An Electronics course for beginners that focuses on Circuit Design.
 
 ---
 
-![Water Detector](src/circuits/water_detector/textures/water_detector_a.png)
-
 ## CIRCUITS
 
 [Water Detector](src/circuits/water_detector/water_detector.md)  
 
+![Water Detector](src/circuits/water_detector/textures/water_detector_a.png)
+
 ---
 
 [Light Detector](src/circuits/light_detector/light_detector.md)
+
+![Light Detector](src/circuits/light_detector/textures/light_detector_circuit_a.png)
 
 ---
 
