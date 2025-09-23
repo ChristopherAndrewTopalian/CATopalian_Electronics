@@ -9,7 +9,9 @@ An Electronics course for beginners that focuses on Circuit Design.
 
 ![Title](src/warnings/never_connect_battery_to_itself_without_a_load.png)
 
-![Electronics Inventory](src/electronics_inventory/electronics_inventory.md)
+---
+
+[Electronics Inventory](src/electronics_inventory/electronics_inventory.md)
 
 ---
 
