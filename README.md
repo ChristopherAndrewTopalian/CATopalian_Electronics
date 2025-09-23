@@ -3,6 +3,14 @@ An Electronics course for beginners that focuses on Circuit Design.
 
 ---
 
+![Title](src/title/title.png)
+
+---
+
+![Title](src/warnings/never_connect_battery_to_itself_without_a_load.png)
+
+---
+
 ## CIRCUITS
 
 [Water Detector](src/circuits/water_detector/water_detector.md)  
