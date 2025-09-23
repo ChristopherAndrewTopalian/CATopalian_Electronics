@@ -7,7 +7,11 @@ An Electronics course for beginners that focuses on Circuit Design.
 
 ---
 
-![Title](src/warnings/never_connect_battery_to_itself_without_a_load.png)
+![Never Connect a Battery to Itself](src/warnings/never_connect_battery_to_itself_without_a_load.png)
+
+---
+
+![short_circuit_danger_homemade_breadboard](src/warnings/short_circuit_danger_homemade_breadboard.png)
 
 ---
 
