@@ -33,6 +33,14 @@ An Electronics course for beginners that focuses on Circuit Design.
 
 ---
 
+---
+
+[Dark Detector](src/circuits/dark_detector/dark_detector.md)
+
+![Dark Detector](src/circuits/dark_detector/textures/dark_detector_circuit_a.png)
+
+---
+
 //----//
 
 // Dedicated to God the Father  
