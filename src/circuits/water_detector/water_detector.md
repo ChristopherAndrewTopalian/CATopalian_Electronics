@@ -4,7 +4,7 @@
 
 ![Water Setector](textures/water_detector_b.webp)
 
-Video: https://www.youtube.com/watch?v=eFUNUYt9rYY
+---
 
 ### 🔧 **Purpose of the Circuit**
 
