@@ -2,7 +2,9 @@
 
 ![Water Detector](textures/water_detector_a.png)
 
-![Water Setector](textures/water_detector_b.png)
+![Water Setector](textures/water_detector_b.webp)
+
+Video: https://www.youtube.com/watch?v=eFUNUYt9rYY
 
 ### 🔧 **Purpose of the Circuit**
 
@@ -13,7 +15,7 @@ When water is present between **Wire A** and **Wire B** this circuit **detects t
 ### 🧩 **Components**
 
 * **NPN 3904 Transistor**
-* **270Ω resistor** (on collector side)
+* **270Ω resistor or 330Ω** (on collector side)
 * **1kΩ resistor** (on base side)
 * **LED**
 * **3V Power Source** (2x AA batteries)
