@@ -1,6 +1,6 @@
 # IR Object Detector – LED Starts On (Infrared)
 
-Video: 
+Video: https://www.youtube.com/watch?v=1du7LRB1-hc
 
 ---
 
@@ -10,7 +10,7 @@ Video:
 
 This circuit demonstrates how to use **infrared light** to detect when an object passes between two points. The circuit begins with the LED **on by default**, and when the IR beam is interrupted, the LED turns **off**.
 
-This “normally on” behavior makes the circuit easy to test, reliable, and useful for practical applications such as cat traps, counters, and object detection systems.
+This “normally on” behavior makes the circuit easy to test, reliable, and useful for practical applications such as cat traps for rescues, counters, and object detection systems.
 
 ---
 
